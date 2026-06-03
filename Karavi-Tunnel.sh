@@ -2,7 +2,7 @@
 set -euo pipefail
 
 APP_NAME="Karavi"
-TG_ID="@IlyaahD"
+TG_ID="@akaravi"
 VERSION="2.0.0"
 
 GITHUB_REPO="github.com/akaravi/k-n"
