@@ -230,4 +230,4 @@ On IR profile creation, answer `n` to AutoSync and enter a CSV list (e.g. `80,44
 ## Links
 
 - GitHub: [akaravi/k-n](https://github.com/akaravi/k-n)
-- Telegram: [@IlyaahD](https://t.me/IlyaahD)
+

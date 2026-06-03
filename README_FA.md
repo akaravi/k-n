@@ -230,4 +230,4 @@ cron health-check (منو ۳) را فعال کنید یا اسلات را دست
 ## لینک‌ها
 
 - GitHub: [akaravi/k-n](https://github.com/akaravi/k-n)
-- تلگرام: [@IlyaahD](https://t.me/IlyaahD)
+
